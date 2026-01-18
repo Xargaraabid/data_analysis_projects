@@ -34,5 +34,15 @@ Initial data cleaning was performed using Python. The cleaned dataset was then u
 - Advanced analysis and dashboarding using Power BI
 - Predictive insights using Machine Learning models
 
+## Python Analysis
+- Cleaned dirty cafe sales data using Pandas and NumPy
+- Handled missing, inconsistent, and incorrect values
+- Performed exploratory data analysis (EDA)
+- Created visualizations:
+  - Item-wise sales
+  - Payment method distribution
+  - Sales by location
+  - Daily sales trend
+
 ## Outcome
 This project provides clear insights into sales patterns and helps understand customer behavior and business performance.
